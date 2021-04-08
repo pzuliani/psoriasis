@@ -1,1 +1,1 @@
-# psoriasis
+# Psoriasis model files
